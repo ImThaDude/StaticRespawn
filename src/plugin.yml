@@ -1,0 +1,5 @@
+name: StaticRespawn
+main: staticrespawn.StaticRespawn
+version: 1.0
+
+depend: [DreamWorldStarter]
